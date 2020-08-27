@@ -1,0 +1,8 @@
+name: SHPO
+dependencies:
+ - python=3.6
+ - keras
+ - tensorflow
+ - pandas
+ - openpyxl
+ - xlrd
